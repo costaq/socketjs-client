@@ -1,14 +1,14 @@
 {
   "name": "socketjs-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "websocket hanlder for web",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
-    "version" : "git add -A",
-    "postversion" : "git push && git push --tags"
+    "version": "git add -A",
+    "postversion": "git push && git push --tags"
   },
   "repository": {
     "type": "git",
